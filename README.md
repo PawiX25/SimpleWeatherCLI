@@ -72,3 +72,5 @@ You can install the required libraries using pip:
 - [WeatherAPI](https://www.weatherapi.com/) for providing the weather data.
 - [Matplotlib](https://matplotlib.org/) for plotting the temperature trends.
 - [Tabulate](https://pypi.org/project/tabulate/) for formatting the table output.
+
+![Weather Forecast Output](https://github.com/user-attachments/assets/e3c124a0-f771-4770-9f68-4659c3d1de69)
